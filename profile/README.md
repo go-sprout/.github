@@ -29,7 +29,7 @@ Our goals are:
 
 ## Join Us
 
-We're excited to welcome new contributors and users who want to join us in nurturing this project. Whether you're fixing bugs, proposing new features, or improving documentation, your help is welcome. Check out the [repository contributing guidelines](https://github.com/sponsors/go-sprout/sprout/blob/main/.github/CONTRIBUTING.md) for more information.
+We're excited to welcome new contributors and users who want to join us in nurturing this project. Whether you're fixing bugs, proposing new features, or improving documentation, your help is welcome. Check out the [repository contributing guidelines](https://github.com/go-sprout/sprout/blob/main/.github/CONTRIBUTING.md) for more information.
 
 ## Sponsors
 

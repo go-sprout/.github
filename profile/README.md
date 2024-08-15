@@ -14,7 +14,7 @@
 
 ## The Sprout Project
 
-- **[Official Documentation](https://docs.atom.codes/sprout)**
+- **[Official Documentation](https://sprout.atom.codes)**
 - **[GitHub Repository](https://github.com/go-sprout/sprout)**
 
 ## Why an organization ?
@@ -35,4 +35,4 @@ We're excited to welcome new contributors and users who want to join us in nurtu
 
 Support Sprout by becoming a sponsor. Your logo will be displayed here with a link to your website, acknowledging your valuable support.
 
-[Become a sponsor 🌱💜](https://github.com/sponsors/go-sprout).
+[Become a sponsor 🌱💜](https://github.com/sponsors/42atomys).
